@@ -23,7 +23,7 @@ Ao longo da minha trajetória no Grupo Rede Amazônica, participei da migração
 
 **[fast_api](https://github.com/reulyson/fast_api)**: API REST em FastAPI, desenvolvida durante o curso [FastAPI do Zero](https://fastapidozero.dunossauro.com/estavel/), com autenticação JWT, SQLAlchemy, Alembic e testes com pytest.
 
-**[alura-space](https://github.com/reulyson/alura-space)**: aplicação web em Django com busca, autenticação (incluindo login com Google via OAuth 2.0) e armazenamento de imagens na AWS S3.
+**[alura-space](https://github.com/reulyson/alura-space)**: aplicação web em Django, feita durante a formação Django da Alura, com busca, autenticação (incluindo login com Google via OAuth 2.0) e armazenamento de imagens na AWS S3.
 
 ## Contato
 
