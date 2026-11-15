@@ -19,9 +19,9 @@ Ao longo da minha trajetória no Grupo Rede Amazônica, participei da migração
 
 ## Projetos
 
-**[FinFlow](https://github.com/reulyson/controle_de_gastos)**: aplicação de controle financeiro pessoal, com visão anual, lançamentos, cartões e fechamento mensal. API em FastAPI com SQLAlchemy e Alembic, e interface em React com TypeScript.
+**[FinFlow](https://github.com/reulyson/controle_de_gastos)** (em desenvolvimento): aplicação de controle financeiro pessoal, com visão anual, lançamentos, cartões e fechamento mensal. API em FastAPI com SQLAlchemy e Alembic, e interface em React com TypeScript.
 
-**[fast_api](https://github.com/reulyson/fast_api)**: API REST em FastAPI com autenticação JWT, SQLAlchemy, Alembic e testes com pytest.
+**[fast_api](https://github.com/reulyson/fast_api)**: API REST em FastAPI, desenvolvida durante o curso de FastAPI da Alura, com autenticação JWT, SQLAlchemy, Alembic e testes com pytest.
 
 **[alura-space](https://github.com/reulyson/alura-space)**: aplicação web em Django com busca, autenticação (incluindo login com Google via OAuth 2.0) e armazenamento de imagens na AWS S3.
 
